@@ -8,5 +8,7 @@ git push
 git pull
 git init
 git checkout
-git git branch
-
+git branch
+git reflog -b
+git branch -D
+git cherry-pick
